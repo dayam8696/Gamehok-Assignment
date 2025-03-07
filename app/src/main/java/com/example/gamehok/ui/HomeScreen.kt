@@ -178,37 +178,7 @@ fun PremiumBanner() {
     }
 }
 
-@Composable
-fun GameCategories(gameCategories: List<Game>, onViewAllClick: () -> Unit) {
-    Column(modifier = Modifier.padding(16.dp)) {
-        Row(
-            modifier = Modifier.fillMaxWidth(),
-            horizontalArrangement = Arrangement.SpaceBetween
-        ) {
-            Text(
-                text = "Play Tournament by Games",
-                color = Color.White,
-                fontSize = 18.sp,
-                fontWeight = FontWeight.Bold
-            )
-            Text(
-                text = "View All",
-                color = Color(0xFF00FF00), // Green color
-                fontSize = 16.sp,
-                fontWeight = FontWeight.SemiBold,
-                modifier = Modifier.clickable { onViewAllClick() }
-            )
-        }
 
-        Spacer(modifier = Modifier.height(8.dp))
-
-        LazyRow {
-            items(gameCategories) { game ->
-                GameCategoryItem(game)
-            }
-        }
-    }
-}
 
 @Composable
 fun GameCategories(viewModel: TournamentViewModel, onViewAllClick: () -> Unit) {
@@ -502,7 +472,7 @@ fun formatTime(timestamp: Long): String {
 @Composable
 fun PeopleToFollow() {
     val profileImages = listOf(
-      com.example.gamehok.R.drawable.peoplepro,
+        com.example.gamehok.R.drawable.peoplepro,
         com.example.gamehok.R.drawable.profile_one,
         com.example.gamehok.R.drawable.profile_two
 
