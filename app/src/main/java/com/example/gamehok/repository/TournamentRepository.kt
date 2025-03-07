@@ -2,6 +2,7 @@ package com.example.gamehok.repository
 
 import com.example.gamehok.api.ApiClient
 import com.example.gamehok.api.TournamentApi
+import com.example.gamehok.model.Game
 import com.example.gamehok.model.Tournament
 
 import retrofit2.Response
@@ -12,6 +13,10 @@ class TournamentRepository private constructor() {
 
     suspend fun getTournaments(): Response<List<Tournament>> {
         return apiService.getTournaments()
+    }
+
+    suspend fun getGames(): Response<List<Game>> { // Fetch game categories
+        return apiService.getGames()
     }
 
     companion object {
