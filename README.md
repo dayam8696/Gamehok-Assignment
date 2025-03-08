@@ -44,14 +44,14 @@ This is an Android application developed as part of the **Gamehok Android Develo
 
 1. **Clone the repository**
    ```bash
-   git clone https:[https://github.com/dayam8696/Gamehok-Assignment]
+   git clone https:https://github.com/dayam8696/Gamehok-Assignment
    ```
 2. **Open in Android Studio** and let Gradle sync.
 3. **Run the app** on an emulator or a physical device.
 
 ## 📦 APK Download
 
-The APK file can be found [here](https://your-apk-download-link.com).
+The APK file can be found [here](https://drive.google.com/file/d/15EBgqBkb9gEfGbSaMsH6qeF0LKGKOkO3/view?usp=sharing).
 
 ## 🏆 Evaluation Criteria
 
