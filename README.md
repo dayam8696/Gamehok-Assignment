@@ -48,6 +48,16 @@ This is an Android application developed as part of the **Gamehok Android Develo
 | <img src="ScreenShots/GameScreen.jpg" width="300"> |
 
 
+### 📽️ Video Demo
+
+Check out the full demo of the application in action:
+
+[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+Click the image above or [watch the demo here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID).
+
+---
+
 ## 🛠️ Project Setup
 
 ### Prerequisites
