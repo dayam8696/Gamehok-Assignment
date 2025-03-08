@@ -16,7 +16,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.example.gamehok.BottomNavigation.BottomNavItem
 import com.example.gamehok.BottomNavigation.BottomNavigationBar
-import com.example.gamehok.ui.GameTournamentScreen
+import com.example.gamehok.ui.screens.GameTournamentScreen
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

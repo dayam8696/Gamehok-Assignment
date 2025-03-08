@@ -5,8 +5,6 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Group
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
@@ -22,7 +20,7 @@ import coil.compose.rememberImagePainter
 import com.example.gamehok.R
 import com.example.gamehok.model.Tournament
 import com.example.gamehok.repository.TournamentRepository
-import com.example.gamehok.ui.TournamentsSection
+import com.example.gamehok.ui.screens.TournamentsSection
 import com.example.gamehok.viewmodel.TournamentViewModel
 import com.example.gamehok.viewmodel.TournamentViewModelFactory
 import java.text.SimpleDateFormat
