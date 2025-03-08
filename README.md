@@ -29,15 +29,23 @@ This is an Android application developed as part of the **Gamehok Android Develo
 ### 📸 Screenshots
 
 #### Home Screen
-![Home Screen](ScreenShots/homeScreen1.jpg)
-![Home Screen](ScreenShots/homeScreen2.jpg)
+| Home Screen 1 | Home Screen 2 |
+|--------------|--------------|
+| <img src="ScreenShots/homeScreen1.jpg" width="300"> | <img src="ScreenShots/homeScreen2.jpg" width="300"> |
 
 #### Tournaments List Screen
-![Tournaments List Screen](screenshots/tournaments_list.png)
+| Screen 1 | Screen 2 | Screen 3 |
+|---------|---------|---------|
+| <img src="ScreenShots/tournamentDetailScreen1.jpg" width="250"> | <img src="ScreenShots/tournamentDetailScreen2.jpg" width="250"> | <img src="ScreenShots/tournamentDetailScreen3.jpg" width="250"> |
 
+| Screen 4 | Screen 5 |
+|---------|---------|
+| <img src="ScreenShots/tournamentDetailScreen4.jpg" width="250"> | <img src="ScreenShots/tournamentDetailScreen5.jpg" width="250"> |
 
 #### Game Details Screen
-![Game Details Screen](screenshots/game_details.png)
+| Game Details |
+|-------------|
+| <img src="ScreenShots/GameScreen.jpg" width="300"> |
 
 
 ## 🛠️ Project Setup
