@@ -53,13 +53,6 @@ This is an Android application developed as part of the **Gamehok Android Develo
 
 The APK file can be found [here](https://drive.google.com/file/d/15EBgqBkb9gEfGbSaMsH6qeF0LKGKOkO3/view?usp=sharing).
 
-## 🏆 Evaluation Criteria
-
-✅ **Pixel Perfection** - UI matches the Figma design with accurate alignment and spacing.\
-✅ **Clean Code & Architecture** - Modularized using MVVM.\
-✅ **Efficient API Handling** - Fetches and displays data smoothly.\
-✅ **Proper Image Handling** - Uses Coil for loading images and placeholders.
-
 ## 📩 Contact
 
 For any queries or discussions, feel free to reach out! 😊
