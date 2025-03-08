@@ -26,11 +26,19 @@ This is an Android application developed as part of the **Gamehok Android Develo
 - **Tournaments List:** `GET https://67c9566f0acf98d07089d293.mockapi.io/tournaments`
 - **Tournament Details:** Data extracted from the **tournaments API**, with fallback to dummy data
 
-## 📸 Screenshots
+### 📸 Screenshots
 
-| Home Screen | Game Details |
-| ----------- | ------------ |
-|             |              |
+#### Home Screen
+![Home Screen](ScreenShots/homeScreen1.jpg)
+![Home Screen](ScreenShots/homeScreen2.jpg)
+
+#### Tournaments List Screen
+![Tournaments List Screen](screenshots/tournaments_list.png)
+
+
+#### Game Details Screen
+![Game Details Screen](screenshots/game_details.png)
+
 
 ## 🛠️ Project Setup
 
