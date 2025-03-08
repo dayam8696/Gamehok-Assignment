@@ -52,11 +52,10 @@ This is an Android application developed as part of the **Gamehok Android Develo
 
 Check out the full demo of the application in action:
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the Demo](https://img.youtube.com/vi/FwI4_djL4uE/maxresdefault.jpg)](https://www.youtube.com/shorts/FwI4_djL4uE)
 
-Click the image above or [watch the demo here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID).
+Click the image above or [watch the demo here](https://www.youtube.com/shorts/FwI4_djL4uE).
 
----
 
 ## 🛠️ Project Setup
 
@@ -83,8 +82,8 @@ The APK file can be found [here](https://drive.google.com/file/d/15EBgqBkb9gEfGb
 
 For any queries or discussions, feel free to reach out! 😊
 
-**Email:** [your.email@example.com](mailto\:your.email@example.com)\
-**GitHub:** [yourgithub](https://github.com/yourusername)
+**Email:** [dayam8696@gmail.com](mailto:dayam8696@gmail.com)  
+**GitHub:** [dayam8696](https://github.com/dayam8696)
 
  
 
